@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#PLAYLISTV: pltv-logo="https://i97.servimg.com/u/f97/19/82/45/70/fundo_13.png" pltv-name="KeltecMP IPTV" pltv-description="FILMES, SERIES, DESENHOS E ANIMES" pltv-cover="https://i62.servimg.com/u/f62/19/82/45/70/heroes11.jpg" pltv-author="EZEQUIEL" pltv-site="http://keltecmp-iptv.directorioforuns.com/h122-IPTV" pltv-email="" pltv-phone="(11)967061676"
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/icones-gratis/atualizacao_318-33117.jpg" group-title="UPDATE:03/01/19", UPDATE:03/01/19
+https://origin.esporteone.com/SBTSD/tracks-v1a1/mono.m3u8?md5=lwAmItsU481ZUv_Vb8U5Dw&expires=1660353401
