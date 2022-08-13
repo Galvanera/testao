@@ -38,3 +38,18 @@ https://live.xvideosporn.me/p2p/hboplus/chunks.m3u8?nimblesessionid=4828239&wmsA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="Filmes", HBO Family
 https://live.xvideosporn.me/p2p/hbofamily/chunks.m3u8?nimblesessionid=4828349&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDI6MjI6MDAgUE0maGFzaF92YWx1ZT1GMlVhaVJkanhOb2lybWNqS2Y5NytnPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Filmes", HBO Mundi
+https://live.xvideosporn.me/p2p/hbomundi/chunks.m3u8?nimblesessionid=4828447&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDI6MjU6NDMgUE0maGFzaF92YWx1ZT1PaURhVDFITTRqRjZHU2krejIxQlV3PT0mdmFsaWRtaW51dGVzPTkw
+
+
+
+
+
+############## ESPORTE ################# 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Esportes", ESPN Esportes 4
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esportes", ESPN Esportes 3
+https://cdn1.xvideosporn.me/p2p/espn3/chunks.m3u8?nimblesessionid=733081&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDI6Mjk6MDkgUE0maGFzaF92YWx1ZT1xWEVsU0FKSG8rVDdKdTBldk1TTGxRPT0mdmFsaWRtaW51dGVzPTkw
