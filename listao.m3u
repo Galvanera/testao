@@ -48,11 +48,14 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Filmes", AXN
 https://tv.topplay.cf/playlist/03a362f8432f9c98e7e0849d20281e66/38e1eabf17d0f94c6cb37934d5ed9536/master.txt?token=dExVNy9HbWhwTzhIUmQrNWhSNG5tK3dYaHp3b2Uxa1lkcFk4ZnBhVUFXR3d2S21GSmhGaHFRc1l1b3V3dUJENTo6T61q0bOSO336yBdZQdBA7w%3D%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Filmes", HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Filmes", HBO
 https://embed.superfutebol.tv/playlist.m3u8?data=bFdyUlozaHBFZUF5cFNzb3g5NWo1a0ZuR1lweHFpc04zRVlodUhyQnhKQmlHT1Zja1JSK051WHNGOTF4L05sNDo6gyN2%2FJNUlwM3ZQ00kBJzrg%3D%3D&url=RlM0OEJ0ekhtdmg0ZUNQVlM0d3BpcGZYZkpTVlFubmNCenlTQnpaSE9KZ3hGcWtkbFpRY1Y1d01Zci9MTmpTODo6i%2FnHGuVNfZXRXnj59qGTKQ%3D%3D&live=false&token=NEZ4d3dvV0o3WHBkWTRwNUZjRGV0UT09OjraxN%2BZoFlqZspsXmLPot6m
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Filmes", HBO 2
+https://embed.superfutebol.tv/playlist.m3u8?data=T1l6bUh4SGlMblphV1JHdWg1amxVMTF3Yk5VS0s5Yyt0VE0veGRBeWhSVGdCOHVFSWsxMnlNNTBLOE5Ub3lqTDo6phLtD1rwGNuBk%2BGRZqgWcQ%3D%3D&url=QXdYdVZXejVPc2pTZWNCM3RYSVQ3c1JDcXphYTRWUTloMFU3aTkxOG5aaE9rWTA0NU1pVnRQSUYxV0NWTjdzQzo6Arw683UEZO17K5j3P8AEJA%3D%3D&live=false&token=NEZ4d3dvV0o3WHBkWTRwNUZjRGV0UT09OjraxN%2BZoFlqZspsXmLPot6m
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Filmes", HBO Extreme
+https://live.xvideosporn.me/p2p/hboextreme/chunks.m3u8?nimblesessionid=4829099&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDI6NTM6NTUgUE0maGFzaF92YWx1ZT1IZDdkenlQUDlFZE9LTzFnSWMwZDFBPT0mdmFsaWRtaW51dGVzPTkw
 
 
 
